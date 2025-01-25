@@ -19,8 +19,8 @@ Install NanoComp: conda install -c bioconda nanocomp
 Install Emu: Follow the instructions at [Emu GitHub](https://github.com/treangenlab/emu)
 
 ## Usage
-Make the script executable: 
+#Make the script executable 
 chmod +x emu_script.sh
 
-Run the script:
+#Run the script
 ./emu_script.sh /path/to/input_directory your_email@example.com
